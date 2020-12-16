@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string name="welcome_to_expense_tracker">Welcome to Expense Tracker!</string>
+    <string name="next">Next</string>
+    <string name="to_start">To start, please enter your monthly income:</string>
+    <string name="peso_sign">₱</string>
+    <string name="submit">Submit</string>
+    <string name="enter_expenses">Enter expenses:</string>
+    <string name="expense">Expense</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="view_expenses">View Expenses</string>
+    <string name="amount">Amount</string>
+</resources>
